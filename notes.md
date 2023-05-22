@@ -1,3 +1,7 @@
+Node version should be > 16 for Vue-3
+node -v 
+v18.16.0
+
 vue create hello-world
 cd project-name
 npm run serve
