@@ -1,0 +1,1 @@
+export const ChildComponentKey = Symbol(); // It will work as UUID.
