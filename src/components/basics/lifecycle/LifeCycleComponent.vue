@@ -2,9 +2,9 @@
   <div class="bg-warning">
     <h1 class="text-primary">{{ message }}</h1>
     <h3>Login Form</h3>
-    Username <input type="text" ref="username" />
+    Username : <input type="text" ref="username" />
     <br />
-    Password <input type="password" ref="password" value="welcome" />
+    Password : <input type="password" ref="password" value="welcome" />
     <br />
     <button class="btn btn-success">Login</button>
   </div>
