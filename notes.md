@@ -6,16 +6,25 @@ vue create hello-world
 cd project-name
 npm run serve
 
+// To commit a local project to Github //
+git init
+git add -A
+git commit -m 'Added my project'
+git remote add origin git@github.com:sammy/my-new-project.git
+git push -u -f origin main
+
 vue create dummy-app
 vue-3
 manual select features
 3x
 class - N
 babel -y
+router -Y
 eslint- enter
-enter
-enter
-no
+History -enter
+Test - enter
+Jest - enter
+always setting - No
 
 extension
 volar - vue language features & typescript
