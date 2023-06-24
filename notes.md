@@ -29,6 +29,13 @@ always setting - No
 extension
 volar - vue language features & typescript
 
+// for using Pinia store //
+npm install pinia
+Mount it with createPinia configuration
+Start creating store
+Use it in vue components.
+![image](https://github.com/ShivamSinghhh/Vue_app/assets/91656460/e0c464f4-8aa9-4400-9c1b-03d697e65a2f)
+
 //----------------------------------------------------------------//
 ECMA: specifications - ES5 : object based lang - function. object.
 ES 6 : React - jsx => object oriented tech. - 16 new features
